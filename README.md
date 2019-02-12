@@ -1,2 +1,2 @@
-# University-of-Turku
-Project work
+# StudentProjects
+From University of Turku and Metropolia University of Applied Sciences.
